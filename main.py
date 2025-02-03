@@ -33,5 +33,3 @@ for value in fav_artists.values():
 #-Pair-#
 for items in fav_artists.items():
     print(f'{items}\n')
-
-
